@@ -1,1 +1,4 @@
 openpyxl==3.0.10
+unfolded.map-sdk==0.7.3
+geopandas==0.11.0
+pyarrow==8.0.0
